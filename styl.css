@@ -86,8 +86,8 @@ ul li a:hover{
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
 
-
-
+    
+    
 
 }
 
@@ -269,11 +269,11 @@ ul li a:hover{
     color: orange;
 }
 .icon {
-    display: flex;                     /* Enables flexbox */
-    justify-content: center;            /* Centers icons horizontally */
-    gap: 15px;                          /* Adds space between icons */
-    margin-top: 5px;                    /* Adjusts spacing from other elements */
-    text-align: center;                 /* Centers inline elements as fallback */
-    transform: translateX(25px);        /* Moves icons slightly to the right */
+    display: flex;                    
+    justify-content: center;            
+    gap: 15px;                          
+    margin-top: 5px;                    
+    text-align: center;                 
+    transform: translateX(25px);        
 }
->>>>>>> 5948e6b (Project added)
+
